@@ -3,6 +3,6 @@ coverage==4.5.1
 cython==0.29.14
 pytest==5.0.1
 pytest-cov==2.7.1
-setuptools==41.6.0
+setuptools==65.5.1
 boto3==1.9.19
 wheel==0.33.6
